@@ -18,7 +18,7 @@ export default function Home() {
                         <div className="col-3">
                             <div className="profile">
                                 <div className="image">
-                                    <Image src="me-full.png" alt="Vinicius Jordão" className="img"/>
+                                    <img src="/me-full.png" alt="Vinicius Jordão" className="img"/>
                                 </div>
                                 <div className="initial">
                                     <h2>Vinicius <span>Jordão</span></h2>
@@ -208,27 +208,27 @@ export default function Home() {
                                     <div className="row align-center">
                                         <div className="col">
                                             <div className="item-brand">
-                                                <Image src="kfc.png" alt="KFC Brasil" className="img"/>
+                                                <img src="/kfc.png" alt="KFC Brasil" className="img"/>
                                             </div>
                                         </div>
                                         <div className="col">
                                             <div className="item-brand">
-                                                <Image src="programa-sites.png" alt="Programa sites" className="img"/>
+                                                <img src="/programa-sites.png" alt="Programa sites" className="img"/>
                                             </div>
                                         </div>
                                         <div className="col">
                                             <div className="item-brand">
-                                                <Image src="ttenx.png" alt="TTENX" className="img"/>
+                                                <img src="/ttenx.png" alt="TTENX" className="img"/>
                                             </div>
                                         </div>
                                         <div className="col">
                                             <div className="item-brand">
-                                                <Image src="autentica-online.png" alt="Autentica online" className="img"/>
+                                                <img src="/autentica-online.png" alt="Autentica online" className="img"/>
                                             </div>
                                         </div>
                                         <div className="col">
                                             <div className="item-brand">
-                                                <Image src="manu-sim.png" alt="Manu sim" className="img"/>
+                                                <img src="/manu-sim.png" alt="Manu sim" className="img"/>
                                             </div>
                                         </div>
                                     </div>

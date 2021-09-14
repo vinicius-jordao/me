@@ -179,7 +179,7 @@ main .profile .image {
     padding: 32px 32px 24px;
 }
 
-main .profile .image .img {
+main .profile .image img {
     max-width: 180px;
     display: block;
     margin: auto;
@@ -480,7 +480,7 @@ div.main-content section.section-default .item-brand {
     transition: .2s;
 }
 
-div.main-content section.section-default .item-brand .img {
+div.main-content section.section-default .item-brand img {
     max-height: 100px;
     max-width: 140px;
 }
@@ -560,7 +560,7 @@ div.main-content section.section-default .item-brand:hover {
         margin-bottom: 24px;
     }
 
-    div.main-content section.section-default .item-brand .img {
+    div.main-content section.section-default .item-brand img {
         max-width: 75%;
         max-height: unset;
     }
