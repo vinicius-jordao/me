@@ -70,7 +70,7 @@ export default function Home() {
                                             <div className="tooltip">Celular/Whatsapp</div>
                                         </li>
                                     </ul>
-                                    <a href="" className="btn">
+                                    <a href="https://api.whatsapp.com/send/?phone=5541988358677" target="_blank" rel="noopener noreferrer" className="btn">
                                         <span>Vamos conversar</span>
                                         <ion-icon name="arrow-forward"></ion-icon>
                                     </a>
