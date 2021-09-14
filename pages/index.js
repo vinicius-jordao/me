@@ -22,13 +22,13 @@ export default function Home() {
                                     <h2>Vinicius <span>Jordão</span></h2>
                                     <div className="badge">Diretor de criação</div>
                                     <div className="social-media">
-                                        <a href="http://" target="_blank" rel="instagram">
+                                        <a href="http://" target="_blank" rel="noreferrer">
                                             <ion-icon name="logo-instagram"></ion-icon>
                                         </a>
-                                        <a href="http://" target="_blank" rel="linkedin">
+                                        <a href="http://" target="_blank" rel="noreferrer">
                                             <ion-icon name="logo-linkedin"></ion-icon>
                                         </a>
-                                        <a href="https://github.com/vinicius-jordao" target="_blank" rel="gihub">
+                                        <a href="https://github.com/vinicius-jordao" target="_blank" rel="noreferrer">
                                             <ion-icon name="logo-github"></ion-icon>
                                         </a>
                                     </div>
@@ -155,7 +155,7 @@ export default function Home() {
                                                     <li className="through">Mobile Apps</li>
                                                     <li className="through">Web Development</li>
                                                 </ul>
-                                                <a href="http://" target="_blank" rel="whatsapp" className="btn">Vamos começar</a>
+                                                <a href="http://" target="_blank" rel="noreferrer" className="btn">Vamos começar</a>
                                             </div>
                                         </div>
                                         <div className="col-4">
@@ -175,7 +175,7 @@ export default function Home() {
                                                     <li>Web Development</li>
                                                     <li className="through">Mobile Apps</li>
                                                 </ul>
-                                                <a href="http://" target="_blank" rel="whatsapp" className="btn">Vamos começar</a>
+                                                <a href="http://" target="_blank" rel="noreferrer" className="btn">Vamos começar</a>
                                             </div>
                                         </div>
                                         <div className="col-4">
@@ -195,7 +195,7 @@ export default function Home() {
                                                     <li>Web Development</li>
                                                     <li>Mobile Apps</li>
                                                 </ul>
-                                                <a href="http://" target="_blank" rel="whatsapp" className="btn">Vamos começar</a>
+                                                <a href="http://" target="_blank" rel="noreferrer" className="btn">Vamos começar</a>
                                             </div>
                                         </div>
                                     </div>
