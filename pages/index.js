@@ -71,8 +71,8 @@ export default function Home() {
                                         </li>
                                     </ul>
                                     <a href="" className="btn">
-                                        <ion-icon name="arrow-down"></ion-icon>
-                                        <span>Baixar CV</span>
+                                        <span>Vamos conversar</span>
+                                        <ion-icon name="arrow-forward"></ion-icon>
                                     </a>
                                 </div>
                             </div>

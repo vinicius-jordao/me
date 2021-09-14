@@ -360,8 +360,7 @@ main .profile .information .btn:hover {
 }
 
 main .profile .information .btn ion-icon {
-    margin: -20px -10px;
-    margin-right: 8px;
+    margin: -20px -8px -20px 8px;
     font-size: 20px;
 }
 
