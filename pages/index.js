@@ -25,7 +25,7 @@ export default function Home() {
                                         <a href="http://" target="_blank" rel="instagram">
                                             <ion-icon name="logo-instagram"></ion-icon>
                                         </a>
-                                        <a href="http://" target="_blank" rel="instagram">
+                                        <a href="http://" target="_blank" rel="linkedin">
                                             <ion-icon name="logo-linkedin"></ion-icon>
                                         </a>
                                         <a href="https://github.com/vinicius-jordao" target="_blank" rel="gihub">
@@ -155,7 +155,7 @@ export default function Home() {
                                                     <li className="through">Mobile Apps</li>
                                                     <li className="through">Web Development</li>
                                                 </ul>
-                                                <a href="http://" target="_blank" className="btn">Vamos começar</a>
+                                                <a href="http://" target="_blank" rel="whatsapp" className="btn">Vamos começar</a>
                                             </div>
                                         </div>
                                         <div className="col-4">
@@ -175,7 +175,7 @@ export default function Home() {
                                                     <li>Web Development</li>
                                                     <li className="through">Mobile Apps</li>
                                                 </ul>
-                                                <a href="http://" target="_blank" className="btn">Vamos começar</a>
+                                                <a href="http://" target="_blank" rel="whatsapp" className="btn">Vamos começar</a>
                                             </div>
                                         </div>
                                         <div className="col-4">
@@ -195,7 +195,7 @@ export default function Home() {
                                                     <li>Web Development</li>
                                                     <li>Mobile Apps</li>
                                                 </ul>
-                                                <a href="http://" target="_blank" className="btn">Vamos começar</a>
+                                                <a href="http://" target="_blank" rel="whatsapp" className="btn">Vamos começar</a>
                                             </div>
                                         </div>
                                     </div>
