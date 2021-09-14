@@ -24,10 +24,10 @@ export default function Home() {
                                     <h2>Vinicius <span>Jordão</span></h2>
                                     <div className="badge">Diretor de criação</div>
                                     <div className="social-media">
-                                        <a href="http://" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://www.instagram.com/viinejordao/" target="_blank" rel="noopener noreferrer">
                                             <ion-icon name="logo-instagram"></ion-icon>
                                         </a>
-                                        <a href="http://" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://www.linkedin.com/in/vinicius-jord%C3%A3o-8303361a1/" target="_blank" rel="noopener noreferrer">
                                             <ion-icon name="logo-linkedin"></ion-icon>
                                         </a>
                                         <a href="https://github.com/vinicius-jordao" target="_blank" rel="noopener noreferrer">
@@ -52,7 +52,7 @@ export default function Home() {
                                             <div className="tooltip">Localidade</div>
                                         </li>
                                         <li className="min-text">
-                                            <a href="mailto:">
+                                            <a href="mailto:viniciusjordao.contact@gmail.com" target="_blank" rel="noopener noreferrer">
                                                 <i>
                                                     <ion-icon name="mail-outline"></ion-icon>
                                                 </i>
@@ -61,7 +61,7 @@ export default function Home() {
                                             <div className="tooltip">E-mail</div>
                                         </li>
                                         <li>
-                                            <a href="tel:">
+                                            <a href="https://api.whatsapp.com/send/?phone=5541988358677" target="_blank" rel="noopener noreferrer">
                                                 <i>
                                                     <ion-icon name="call-outline"></ion-icon>
                                                 </i>
@@ -157,7 +157,7 @@ export default function Home() {
                                                     <li className="through">Mobile Apps</li>
                                                     <li className="through">Web Development</li>
                                                 </ul>
-                                                <a href="http://" target="_blank" rel="noopener noreferrer" className="btn">Vamos começar</a>
+                                                <a href="https://api.whatsapp.com/send/?phone=5541988358677" target="_blank" rel="noopener noreferrer" className="btn">Vamos começar</a>
                                             </div>
                                         </div>
                                         <div className="col-4">
@@ -177,7 +177,7 @@ export default function Home() {
                                                     <li>Web Development</li>
                                                     <li className="through">Mobile Apps</li>
                                                 </ul>
-                                                <a href="http://" target="_blank" rel="noopener noreferrer" className="btn">Vamos começar</a>
+                                                <a href="https://api.whatsapp.com/send/?phone=5541988358677" target="_blank" rel="noopener noreferrer" className="btn">Vamos começar</a>
                                             </div>
                                         </div>
                                         <div className="col-4">
@@ -197,7 +197,7 @@ export default function Home() {
                                                     <li>Web Development</li>
                                                     <li>Mobile Apps</li>
                                                 </ul>
-                                                <a href="http://" target="_blank" rel="noopener noreferrer" className="btn">Vamos começar</a>
+                                                <a href="https://api.whatsapp.com/send/?phone=5541988358677" target="_blank" rel="noopener noreferrer" className="btn">Vamos começar</a>
                                             </div>
                                         </div>
                                     </div>
