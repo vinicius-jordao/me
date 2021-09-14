@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Image from 'next/image'
 
 export default function Home() {
     return (
@@ -16,7 +17,7 @@ export default function Home() {
                         <div className="col-3">
                             <div className="profile">
                                 <div className="image">
-                                    <img src="me-full.png" alt="Vinicius Jordão" />
+                                    <Image src="me-full.png" alt="Vinicius Jordão"/>
                                 </div>
                                 <div className="initial">
                                     <h2>Vinicius <span>Jordão</span></h2>
@@ -49,7 +50,7 @@ export default function Home() {
                                             <span>Curitiba PR, Brasil</span>
                                             <div className="tooltip">Localidade</div>
                                         </li>
-                                        <li class="min-text">
+                                        <li className="min-text">
                                             <a href="mailto:">
                                                 <i>
                                                     <ion-icon name="mail-outline"></ion-icon>
@@ -206,34 +207,34 @@ export default function Home() {
                                     <div className="row align-center">
                                         <div className="col">
                                             <div className="item-brand">
-                                                <img src="kfc.png"/>
+                                                <Image src="kfc.png"/>
                                             </div>
                                         </div>
                                         <div className="col">
                                             <div className="item-brand">
-                                                <img src="programa-sites.png"/>
+                                                <Image src="programa-sites.png"/>
                                             </div>
                                         </div>
                                         <div className="col">
                                             <div className="item-brand">
-                                                <img src="ttenx.png"/>
+                                                <Image src="ttenx.png"/>
                                             </div>
                                         </div>
                                         <div className="col">
                                             <div className="item-brand">
-                                                <img src="autentica-online.png"/>
+                                                <Image src="autentica-online.png"/>
                                             </div>
                                         </div>
                                         <div className="col">
                                             <div className="item-brand">
-                                                <img src="manu-sim.png"/>
+                                                <Image src="manu-sim.png"/>
                                             </div>
                                         </div>
                                     </div>
                                 </section>
 
                                 <section className="section-default">
-                                    <h5 class="copyright">© 2021 All Rights Reserved.</h5>
+                                    <h5 className="copyright">© 2021 All Rights Reserved.</h5>
                                 </section>
 
                             </div>
