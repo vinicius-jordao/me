@@ -207,27 +207,27 @@ export default function Home() {
                                     <div className="row align-center">
                                         <div className="col">
                                             <div className="item-brand">
-                                                <Image src="kfc.png"/>
+                                                <Image src="kfc.png" alt="KFC Brasil"/>
                                             </div>
                                         </div>
                                         <div className="col">
                                             <div className="item-brand">
-                                                <Image src="programa-sites.png"/>
+                                                <Image src="programa-sites.png" alt="Programa sites"/>
                                             </div>
                                         </div>
                                         <div className="col">
                                             <div className="item-brand">
-                                                <Image src="ttenx.png"/>
+                                                <Image src="ttenx.png" alt="TTENX"/>
                                             </div>
                                         </div>
                                         <div className="col">
                                             <div className="item-brand">
-                                                <Image src="autentica-online.png"/>
+                                                <Image src="autentica-online.png" alt="Autentica online"/>
                                             </div>
                                         </div>
                                         <div className="col">
                                             <div className="item-brand">
-                                                <Image src="manu-sim.png"/>
+                                                <Image src="manu-sim.png" alt="Manu sim"/>
                                             </div>
                                         </div>
                                     </div>
