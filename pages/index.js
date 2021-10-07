@@ -83,7 +83,7 @@ export default function Home() {
 
                                 <section className="section-default">
                                     <h1>Sobre mim</h1>
-                                    <p>Sou Diretor de Criação, Programagador e UI/UX Designer de Curitiba PR, Brasil, trabalhando em desenvolvimento web e mobile. Gosto de transformar problemas complexos em designs simples, bonitos e intuitivos.</p>
+                                    <p>Sou Diretor de Criação, Programador e UI/UX Designer de Curitiba PR, Brasil, trabalhando em desenvolvimento web e mobile. Gosto de transformar problemas complexos em designs simples, bonitos e intuitivos.</p>
                                     <p>Meu trabalho é construir seu site de forma que seja funcional e amigável, mas ao mesmo tempo atraente. Além disso, adiciono um toque pessoal ao seu produto e me certifico de que ele seja atraente e fácil de usar. Meu objetivo é transmitir sua mensagem e identidade da maneira mais criativa. Criei web design para muitas empresas.</p>
                                 </section>
 
